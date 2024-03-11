@@ -1,0 +1,6 @@
+{
+  "project_name": "Cookiecutter Example",
+  "src_name": "main.py",  
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author": "Peter Emelianov"
+}

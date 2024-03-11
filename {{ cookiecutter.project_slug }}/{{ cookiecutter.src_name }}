@@ -1,0 +1,8 @@
+
+
+def run():
+  print('I was written by {{ cookiecutter.author }}') # type: ignore
+
+
+if __name__ == '__main__':
+  run()
